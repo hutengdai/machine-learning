@@ -1,2 +1,2 @@
 # machine-learning
-a machine learning tutorial
+a machine learning tutorial for linguists
